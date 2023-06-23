@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>br.com.mrzoom</groupId>
-	<artifactId>naming-service</artifactId>
+	<artifactId>naming-server</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>naming-service</name>
 	<description>Demo project for Spring Boot</description>
